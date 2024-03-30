@@ -1,0 +1,17 @@
+[
+    {
+        "id": "101",
+        "name": "Project 1",
+        "description": "Developing a new web application"
+    },
+    {
+        "id": "102",
+        "name": "Project 2",
+        "description": "Analyzing sales data"
+    },
+    {
+        "id": "103",
+        "name": "Project 3",
+        "description": "Implementing company-wide CRM system"
+    }
+]
